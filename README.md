@@ -1,5 +1,5 @@
 ## Universal Style Transfer
-This repo is the fork of [sunshineatnoon/PytorchWCT](https://github.com/sunshineatnoon/PytorchWCT). However, I have fixed it for latest pytorch version 1.6.0. Original models were in lua, but i have converted them into torch compatible .ph files. 
+This repo is the fork of [sunshineatnoon/PytorchWCT](https://github.com/sunshineatnoon/PytorchWCT). However, I have fixed it for latest pytorch version 1.6.0. Original models were in lua, but i have converted them into torch compatible .pth files. 
 
 This is the Pytorch implementation of [Universal Style Transfer via Feature Transforms](https://arxiv.org/pdf/1705.08086.pdf).
 
